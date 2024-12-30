@@ -1,0 +1,9 @@
+.scollremove{
+    overflow: hidden; 
+    scrollbar-width: none; 
+    -ms-overflow-style: none;
+}
+.scollremove::-webkit-scrollbar{
+    display: none;
+
+}
